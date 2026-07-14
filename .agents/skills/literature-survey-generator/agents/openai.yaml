@@ -1,0 +1,7 @@
+interface:
+  display_name: "Literature Survey Generator"
+  short_description: "Search, synthesize, draft, review, and compile academic literature surveys"
+  default_prompt: "Use $literature-survey-generator to produce a rigorous literature survey for the topic, sources, date range, eligibility criteria, and output format I specify."
+
+policy:
+  allow_implicit_invocation: true
